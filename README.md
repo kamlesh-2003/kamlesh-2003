@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Kamlesh Kundkar</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kamlesh-2003/kamlesh-2003/main/bannerr.png" width="100%" alt="Kamlesh Kundkar Banner">
+  <img src="https://raw.githubusercontent.com/kamlesh-2003/kamlesh-2003/main/kamlesh_devops_skills_bar.svg" width="100%" alt="Kamlesh Kundkar Banner">
 </div>
 
 <h3 align="center">DevOps & Cloud Enthusiast from Maharashtra ,India 🇮🇳 | Building CI/CD Pipelines, Automating Infrastructure and Exploring Cloud Technologies</h3>
